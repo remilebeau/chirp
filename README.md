@@ -1,3 +1,6 @@
+# Project is still in development.
+Credit to [Theo - t3.gg](https://www.youtube.com/@t3dotgg) for project idea and tutorial.
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
