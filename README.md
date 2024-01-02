@@ -1,5 +1,5 @@
 # Project is still in development.
-Credit to [Theo - t3.gg](https://www.youtube.com/@t3dotgg) for project idea and tutorial.
+Credit to [Theo from t3.gg](https://t3.gg/) for project idea and tutorial.
 
 # Create T3 App
 
